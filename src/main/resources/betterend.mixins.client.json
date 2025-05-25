@@ -6,7 +6,6 @@
   "client": [
     "AbstractSoundInstanceAccessor",
     "ArmorStandRendererMixin",
-    "BiomeColorsMixin",
     "BlockStateModelLoaderMixin",
     "CapeLayerMixin",
     "HumanoidMobRendererMixin",

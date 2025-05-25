@@ -1,3 +1,6 @@
+// Removed due to https://github.com/CaffeineMC/sodium/issues/2869
+
+/*
 package org.betterx.betterend.mixin.client;
 
 import org.betterx.bclib.util.MHelper;
@@ -61,3 +64,4 @@ public class BiomeColorsMixin {
         Arrays.sort(OFFSETS, Comparator.comparingInt(pos -> MHelper.sqr(pos.x) + MHelper.sqr(pos.y)));
     }
 }
+*/

@@ -15,11 +15,11 @@ public class ClientConfig extends ConfigFile {
             true
     ).setGroup(MainConfig.RENDERING_GROUP);
 
-//    public final BooleanValue sulfurWaterColor = new BooleanValue(
-//            MainConfig.RENDERING_GROUP.title(),
-//            "sulfur_water_color",
-//            true
-//    ).setGroup(MainConfig.RENDERING_GROUP);
+    public final BooleanValue sulfurWaterColor = new BooleanValue(
+            MainConfig.RENDERING_GROUP.title(),
+            "sulfur_water_color",
+            true
+    ).setGroup(MainConfig.RENDERING_GROUP);
 
     public final BooleanValue blendBiomeMusic = new BooleanValue(
             MainConfig.RENDERING_GROUP.title(),

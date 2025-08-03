@@ -36,8 +36,8 @@ public class SulphurSpringsBiome extends EndBiome.Config {
         builder
                 .music(EndSounds.MUSIC_OPENSPACE)
                 .loop(EndSounds.AMBIENT_SULPHUR_SPRINGS)
-                .waterColor(25, 90, 157)
-                .waterFogColor(30, 65, 61)
+                .waterColor(92, 160, 78) // Sulfuric/poisonous green color
+                .waterFogColor(80, 140, 70) // Matching green fog color
                 .fogColor(207, 194, 62)
                 .fogDensity(1.5F)
                 .terrainHeight(0F)
